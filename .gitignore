@@ -1,0 +1,12 @@
+
+.idea/
+
+*.pyc
+
+venv/Lib/site-packages/cycler-0.10.0.dist-info/
+
+venv/Lib/site-packages/
+
+venv/Scripts/
+
+venv/
